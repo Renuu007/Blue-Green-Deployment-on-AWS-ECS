@@ -26,8 +26,6 @@ AWS CodePipeline is a fully managed continuous integration and continuous delive
 - C. After deployment, automate the ALB routing to gradually shift traffic from the Blue service to the Green service based on predefined health checks.  
 - D. Monitor the deployment process and rollback automatically if issues occur during the transition.
 
-## GitHub Source Code Repo: [HERE](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-23/Swiggy_clone)
-
 # **Step:-1 : Create a Sonar Server**
 
 1. To run Static Code Analysis we need a sonar server.
@@ -530,28 +528,4 @@ Observe that the title changed as expected.
 3. Delete Created Code Build.
 
 4. Delete Sonar-Server EC2 Instance.
-
-## Hit the Star! ⭐
-
-**If you are planning to use this repository for learning, please give it a star. Thanks!**
-
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-
----
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
+   
